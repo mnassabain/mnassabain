@@ -1,4 +1,8 @@
-### Software Engineer 👨‍💻
+### 👨‍💻 Software Engineer
+#### 🛠 Recent projects
+- [Team-Forward/news](https://github.com/Team-Forward/news) - Share article feature for the Nextcloud News app
+- [mnassabain/parkpartout](https://github.com/mnassabain/parkpartout) - Strasbourg parking finder mobile app
+- [mnassabain.com](http://mnassabain.com/) - Personal website
 
 <!--
 **mnassabain/mnassabain** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
